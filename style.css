@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+
+.menu-container {
+    width: 100%;
+    max-width: 1200px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.menu-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
